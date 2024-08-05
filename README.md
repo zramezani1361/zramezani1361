@@ -1,8 +1,8 @@
-- 👋 Hi, I’m the CEO of Blocksure Virtual Health Inc. 
+- 👋 Hi, I’m a researcher
 - 👀 I’m interested in letting people have their electronic health records available instantly on their need
 - 🌱 I’m currently learning how to make a reliable platform.
 - 💞️ I’m looking to collaborate on ...
-- 📫 send message to 
+- 📫 send message to zramezani@yahoo.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
